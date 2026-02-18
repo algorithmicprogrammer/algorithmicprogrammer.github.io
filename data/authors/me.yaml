@@ -21,7 +21,7 @@ bio: |
   while ensuring ethical development.
 
 affiliations:
-  - name: Meta AI
+  - name: Illinois Institute of Technology
     url: https://ai.meta.com/
 
 links:
@@ -61,13 +61,13 @@ education:
     start: 2013-09-01
     end: 2015-05-31
   - degree: Bachelor of Science, Liberal Arts
-    institution: MIT
+    institution: Northern Arizona University
     start: 2009-09-01
     end: 2013-05-31
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
+  - role: Research Fellow
+    org: Illinois Institute of Technology
     start: 2020-01-01
     summary: |
       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
@@ -105,8 +105,8 @@ languages:
     level: 5
     label: Native
   - name: Spanish
-    level: 4
-    label: Fluent
+    level: 5
+    label: Native
 
 awards:
   - title: Best Paper Award
