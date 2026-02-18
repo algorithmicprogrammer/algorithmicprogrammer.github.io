@@ -64,6 +64,8 @@ education:
     institution: Northern Arizona University
     start: 2009-09-01
     end: 2013-05-31
+    summary: |
+      Summa Cum Laude
 
 experience:
   - role: Research Fellow
