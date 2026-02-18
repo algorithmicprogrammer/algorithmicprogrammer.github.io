@@ -2,7 +2,7 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
+  display: Algorithmic Programmer
   given: Alex
   family: Johnson
   alternate: ''  # Example: 王伟
@@ -56,11 +56,11 @@ education:
       text: Download dissertation
       url: /resume.pdf
       icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
+  - degree: Master's Degree, Data Science
+    institution: Illinois Institute of Technology
     start: 2013-09-01
     end: 2015-05-31
-  - degree: BS Computer Science
+  - degree: Bachelor of Science, Liberal Arts
     institution: MIT
     start: 2009-09-01
     end: 2013-05-31
