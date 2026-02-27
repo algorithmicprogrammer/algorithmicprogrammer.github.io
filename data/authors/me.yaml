@@ -7,7 +7,7 @@ name:
   family: Johnson
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
-  pronouns: she/her
+  pronouns: she/her/hers
 postnominals:
   - PhD
   - MIEEE
@@ -31,7 +31,7 @@ links:
   - icon: brands/x
     url: https://x.com/example
   - icon: brands/github
-    url: https://github.com/example
+    url: https://github.com/algorithmicprogrammer
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/example/
   - icon: academicons/google-scholar
@@ -40,10 +40,9 @@ links:
     url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Markov Chain Monte Carlo Simulations
+  - Bayesian Inference
+  - Statistical Learning
 
 education:
   - degree: PhD Computer Science
@@ -109,6 +108,9 @@ languages:
   - name: Spanish
     level: 5
     label: Native
+  - name: French
+    level: 3
+    label: Proficient
 
 awards:
   - title: Best Paper Award
