@@ -42,16 +42,6 @@ interests:
   - Statistical Learning
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
-    summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
   - degree: Master's Degree, Data Science
     institution: Illinois Institute of Technology
     start: 2013-09-01
@@ -62,6 +52,10 @@ education:
     end: 2013-05-31
     summary: |
       Summa Cum Laude
+    button:
+      text: Download Diploma
+      url: /resume.pdf
+      icon: hero/arrow-down-tray
 
 experience:
   - role: Research Fellow
