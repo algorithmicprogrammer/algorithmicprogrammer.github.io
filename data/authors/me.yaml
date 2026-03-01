@@ -36,10 +36,10 @@ links:
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-1825-0097
 
-interests:
-  - Markov Chain Monte Carlo Simulations
-  - Bayesian Inference
+research interests:
   - Statistical Learning
+  - Markov Chain Monte Carlo 
+  - Bayesian Inference
 
 education:
   - degree: Master's Degree, Data Science
