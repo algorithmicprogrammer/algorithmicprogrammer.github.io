@@ -1,11 +1,7 @@
 ---
-title: "An example journal article"
+title: "A Novel Computational Framework for Racial Gerrymandering Evaluation"
 authors:
 - me
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
 date: "2015-09-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
