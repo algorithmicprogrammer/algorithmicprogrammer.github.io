@@ -7,12 +7,12 @@ name:
   family: Johnson
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
-  pronouns: she/her/hers
+  pronouns: She/Her/Hers
 postnominals:
   - PhD
   - MIEEE
 status:
-  icon: "☕️"
+  icon: "👩🏽‍💻"
 role: Applied Mathematics Researcher
 bio: |
   Algorithmic Programmer is a data science graduate student and applied mathematics research fellow at Illinois Institute of Technology.
@@ -30,7 +30,7 @@ links:
   - icon: brands/github
     url: https://github.com/algorithmicprogrammer
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+    url: https://www.linkedin.com/in/algorithmicprogrammer
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=example
   - icon: academicons/orcid
@@ -44,12 +44,12 @@ interests:
 education:
   - degree: Master's Degree, Data Science
     institution: Illinois Institute of Technology
-    start: 2013-09-01
-    end: 2015-05-31
+    start: 2025-01-13
+    end: 2027-05-13
   - degree: Bachelor of Science, Liberal Arts
     institution: Northern Arizona University
-    start: 2009-09-01
-    end: 2013-05-31
+    start: 2021-07-01
+    end: 2023-05-31
     summary: |
       Summa Cum Laude
     button:
