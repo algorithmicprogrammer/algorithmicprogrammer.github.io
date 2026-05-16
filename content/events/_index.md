@@ -1,5 +1,6 @@
 ---
 title: 'Presentations'
+date: 2024-05-19
 type: landing
 
 design:
@@ -10,8 +11,8 @@ design:
 sections:
   - block: collection
     content:
-      title: Presented
-      text: Here are a selection of invited presentations I have made over the years.
+      title: Presentations
+      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
       filters:
         folders:
           - events
