@@ -49,7 +49,7 @@ education:
     start: 2025
     end: 2027
     summary: |
-      S3.85 GPA
+      3.85 GPA
   - degree: Bachelor of Science, Liberal Arts
     institution: Northern Arizona University
     start: 2021
@@ -78,7 +78,7 @@ experience:
     end: March 2016
     summary: |
       Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
-  - role: Software Engineer
+  - role: Software Engineering Intern
     org: AudaExplore
     start: June 2015
     end: August 2015
