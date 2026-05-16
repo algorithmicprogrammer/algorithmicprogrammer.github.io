@@ -1,13 +1,21 @@
 ---
-title: Recent & Upcoming Talks
-cms_exclude: true
-#url: talk
+title: Presentations
+type: landing
 
-# View
-view: card
+cascade:
+  - target:
+      path: '{/presentations/*/**}'
+    type: docs
+    params:
+      show_breadcrumb: true
 
-# Optional cover image (relative to `assets/media/` folder).
-image:
-  caption: ''
-  filename: ''
+sections:
+  - block: collection
+    id: presentations
+    design:
+      view: article-grid
+      show_read_time: false
+      show_date: false
+      show_read_more: false
+      columns: 1
 ---
