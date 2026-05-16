@@ -18,8 +18,8 @@ abstract: |
   Join us to explore HugoBlox's revolutionary Markdown-based slide system. Create beautiful presentations with code syntax highlighting, math equations, animations, and dual-column layouts. Edit your slides in any text editor, version control them with Git, and present them anywhere with just a browser. Experience true presentation freedom.
 
 # Talk start and end times.
-event_start: '2026-03-18T13:00:00Z'
-event_end: '2026-03-18T15:00:00Z'
+event_start: '2026-04-18T13:00:00Z'
+event_end: '2026-04-18T15:00:00Z'
 event_all_day: false
 
 authors:
