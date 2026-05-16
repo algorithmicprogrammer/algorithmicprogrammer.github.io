@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'An aag_2026 conference paper'
 
 # Authors
 # If you created a profile for a user (e.g. the default `me` user), write the username (folder name) here
@@ -71,12 +71,12 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - example
+  - aag_2026
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   E.g. `slides: "aag_2026"` references `content/slides/aag_2026/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
