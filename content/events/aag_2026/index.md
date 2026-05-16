@@ -47,7 +47,7 @@ links:
     url: https://docs.hugoblox.com/guides/slides/
 
 # Link to your Markdown slides
-slides: "example"
+slides: "aag_2026"
 
 projects: []
 ---

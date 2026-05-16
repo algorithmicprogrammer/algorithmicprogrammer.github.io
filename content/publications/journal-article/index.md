@@ -64,7 +64,7 @@ projects: []
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   E.g. `slides: "aag_2026"` references `content/slides/aag_2026/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
