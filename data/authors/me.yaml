@@ -48,6 +48,8 @@ education:
     institution: Illinois Institute of Technology
     start: 2025
     end: 2027
+    summary: |
+      S3.85 GPA
   - degree: Bachelor of Science, Liberal Arts
     institution: Northern Arizona University
     start: 2021
@@ -72,8 +74,14 @@ experience:
       icon: hero/arrow-down-tray
   - role: Software Engineer
     org: AudaExplore
-    start: 2015-06-01
-    end: 2016-12-31
+    start: August 2015
+    end: March 2016
+    summary: |
+      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+  - role: Software Engineer
+    org: AudaExplore
+    start: June 2015
+    end: August 2015
     summary: |
       Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
 
