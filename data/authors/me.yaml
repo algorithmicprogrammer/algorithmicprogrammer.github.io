@@ -46,12 +46,12 @@ interests:
 education:
   - degree: Master's Degree, Data Science
     institution: Illinois Institute of Technology
-    start: 2025-01-13
-    end: 2027-05-13
+    start: 2025
+    end: 2027
   - degree: Bachelor of Science, Liberal Arts
     institution: Northern Arizona University
-    start: 2021-07-01
-    end: 2023-05-31
+    start: 2021
+    end: 2023
     summary: |
       Summa Cum Laude
     button:
@@ -60,9 +60,10 @@ education:
       icon: hero/arrow-down-tray
 
 experience:
-  - role: Research Fellow
+  - role: SoReMo Research Fellow
     org: Illinois Institute of Technology
-    start: 2020-01-01
+    start: January 2026
+    end: May 2026
     summary: |
       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
     button:
