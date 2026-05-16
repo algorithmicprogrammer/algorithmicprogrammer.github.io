@@ -107,8 +107,8 @@ languages:
     label: Proficient
 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
+  - title: Google Cloud Next Student Leader
+    awarder: Google
+    date: "April 2024"
+    summary: I was one of 500 students from around the world who was fully funded by Google to attend Google Cloud Next 2024 in Las Vegas, Nevada.
     icon: hero/trophy
