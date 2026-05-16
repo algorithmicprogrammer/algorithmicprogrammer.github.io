@@ -1,21 +1,25 @@
 ---
-title: Presentations
+title: 'Presentations'
 type: landing
 
-cascade:
-  - target:
-      path: '{/presentations/*/**}'
-    type: docs
-    params:
-      show_breadcrumb: true
+design:
+  # Section spacing
+  spacing: '5rem'
 
+# Page sections
 sections:
   - block: collection
-    id: presentations
+    content:
+      title: Presented
+      text: Here are a selection of invited presentations I have made over the years.
+      filters:
+        folders:
+          - events
     design:
       view: article-grid
-      show_read_time: false
+      fill_image: false
+      columns: 3
       show_date: false
+      show_read_time: false
       show_read_more: false
-      columns: 1
 ---
