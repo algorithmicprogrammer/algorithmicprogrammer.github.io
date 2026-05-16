@@ -26,10 +26,8 @@ authors:
   - me
 
 tags:
-  - Markdown
-  - Presentations
-  - Open Science
-  - Academic
+  - Computational Redistricting
+  - Geospatial Analysis
 
 featured: true
 
