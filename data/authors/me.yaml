@@ -3,8 +3,8 @@ slug: me
 is_owner: true
 name:
   display: Algorithmic Programmer
-  given: Alex
-  family: Johnson
+  given: Alicia
+  family: Guerra
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
   pronouns: She/Her/Hers
@@ -13,13 +13,13 @@ postnominals:
   - MIEEE
 status:
   icon: "👩🏽‍💻"
-role: Applied Mathematics Researcher
+role: Data Science Researcher
 bio: |
   Algorithmic Programmer is a data science graduate student and applied mathematics research fellow at Illinois Institute of Technology.
 
 affiliations:
   - name: Illinois Institute of Technology
-    url: https://ai.meta.com/
+    url: https://www.iit.edu/
 
 links:
   - icon: at-symbol
@@ -35,7 +35,8 @@ links:
     url: https://orcid.org/0009-0002-0025-9509
 
 interests:
-  - Computational Social Science
+  - Large Language Models 
+  - Natural Language Processing
   - Graph Theory
   - Markov Chain Monte Carlo 
   - Bayesian Inference
