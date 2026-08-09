@@ -3,11 +3,11 @@ hugoblox:
   identity:
     name: Algorithmic Programmer
     type: person
-    tagline: Data Science Researcher
+    tagline: Applied Mathematics Researcher | Illinois Institute of Technology
     description: ""
   theme:
     mode: system
-    pack: cupcake
+    pack: synthwave
     colors:
       primary: ""
       secondary: ""
