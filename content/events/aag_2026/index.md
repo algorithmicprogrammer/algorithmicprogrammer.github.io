@@ -1,16 +1,16 @@
 ---
 title: "2026 American Association of Geographers Annual Meeting"
-date: '2017-01-01T00:00:00Z'
+date: '2026-01-01T00:00:00Z'
 
 event_name: HugoBlox Showcase
-event_url: https://hugoblox.com
+event_url: https://www.aag.org/events/aag2026/
 
-location: Online & In-Person
+location: Hilton San Francisco Union Square
 address:
-  street: 450 Serra Mall
-  city: Stanford
+  street: 333 O'Farrell St
+  city: San Francisco
   region: CA
-  postcode: '94305'
+  postcode: '94102'
   country: United States
 
 summary: Discover how to create stunning, interactive presentations using simple Markdown — no PowerPoint, Keynote, or vendor lock-in required.
