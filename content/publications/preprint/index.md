@@ -1,5 +1,5 @@
 ---
-title: "The Evluator is Part of the Experiment"
+title: "The Evaluator is Part of the Experiment: Measuring Open-Ended LLM Conformity"
 authors:
 - me
 date: "2026-08-07T00:00:00Z"
