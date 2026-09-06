@@ -1,8 +1,8 @@
 ---
-title: "An aag_2026 preprint / working paper"
+title: "The Evluator is Part of the Experiment"
 authors:
 - me
-date: "2019-04-07T00:00:00Z"
+date: "2026-08-07T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
