@@ -33,7 +33,7 @@ hugoblox:
 links:
 - type: preprint
   provider: arxiv
-  id: 1512.04133v1
+  id: 2608.04463
 - type: code
   url: https://github.com/HugoBlox/kit
 - type: slides
