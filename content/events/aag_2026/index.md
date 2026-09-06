@@ -1,8 +1,8 @@
 ---
 title: "2026 American Association of Geographers Annual Meeting"
-date: '2026-01-01T00:00:00Z'
+date: '2026-03-18T13:00:00Z'
 
-event_name: HugoBlox Showcase
+event_name: 2026 American Association for Geographers Annual Meeting
 event_url: https://www.aag.org/events/aag2026/
 
 location: Hilton San Francisco Union Square
@@ -38,7 +38,7 @@ image:
 links:
   - icon: brands/github
     name: Star on GitHub
-    url: https://github.com/HugoBlox/kit
+    url: https://github.com/algorithmicprogrammer/redistricting-ensemble-inference
   - icon: brands/youtube
     name: Video Tutorial
     url: https://www.youtube.com/
