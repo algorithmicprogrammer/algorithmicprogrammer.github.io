@@ -1,8 +1,8 @@
 ---
-title: "The Evaluator is Part of the Experiment: Measuring Open-Ended LLM Conformity"
+title: "Finite-Sample Validity Is Not Robustness: A Precinct-Level Geospatial Simulation Case Study"
 authors:
 - me
-- Yibo Hu
+- Tianxiang Lu
 date: "2026-08-07T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
