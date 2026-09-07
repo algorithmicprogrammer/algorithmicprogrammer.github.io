@@ -22,11 +22,15 @@ sections:
     content:
       title: Relevant Coursework
       text: |
-        - Big Data Technologies
-        - Data Preparation and Analysis
-        - Bayesian Computational Statistics
-        - Statistical Learning
-        - Linear Regression
+        <div class="text-base text-gray-600 dark:text-gray-300">
+        Big Data Technologies<br>
+        Data Preparation and Analysis<br>
+        Bayesian Computational Statistics<br>
+        Statistical Learning<br>
+        Linear Regression
+        </div>
+    design:
+      columns: '1'
   - block: resume-skills
     content:
       title: Skills & Hobbies
