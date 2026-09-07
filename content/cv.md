@@ -22,11 +22,11 @@ sections:
     content:
       title: Relevant Coursework
       text: |
-        - Data Science
-        - Machine Learning
-        - Natural Language Processing
-        - Bayesian Inference
-        - Graph Theory
+        - Big Data Technologies
+        - Data Preparation and Analysis
+        - Bayesian Computational Statistics
+        - Statistical Learning
+        - Linear Regression
   - block: resume-skills
     content:
       title: Skills & Hobbies
