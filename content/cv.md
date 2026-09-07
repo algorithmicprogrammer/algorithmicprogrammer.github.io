@@ -1,6 +1,6 @@
 ---
 title: 'CV'
-date: 2026-10-24
+date: 2026-09-06
 type: landing
 
 design:
