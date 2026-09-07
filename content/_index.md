@@ -60,7 +60,7 @@ sections:
       columns: 2
   - block: collection
     content:
-      title: Recent Publications
+      title: Recent Papers
       text: ''
       filters:
         folders:
