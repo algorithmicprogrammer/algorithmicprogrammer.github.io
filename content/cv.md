@@ -18,6 +18,15 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
+  - block: markdown
+    content:
+      title: Relevant Coursework
+      text: |
+        - Data Science
+        - Machine Learning
+        - Natural Language Processing
+        - Bayesian Inference
+        - Graph Theory
   - block: resume-skills
     content:
       title: Skills & Hobbies
