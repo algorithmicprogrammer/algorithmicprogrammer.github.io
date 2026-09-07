@@ -2,6 +2,7 @@
 title: "The Evaluator is Part of the Experiment: Measuring Open-Ended LLM Conformity"
 authors:
 - me
+- Yibo Hu
 date: "2026-08-07T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
@@ -54,7 +55,7 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""
   preview_only: false
 
