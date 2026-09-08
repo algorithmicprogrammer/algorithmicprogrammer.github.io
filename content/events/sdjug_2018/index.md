@@ -1,5 +1,5 @@
 ---
-title: "2018 San Diego Java Users Group"
+title: "April 2018 San Diego Java Users Group Meeting"
 date: '2018-04-01T00:00:00Z'
 
 event_name: HugoBlox Showcase
