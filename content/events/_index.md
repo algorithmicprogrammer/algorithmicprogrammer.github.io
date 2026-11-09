@@ -1,13 +1,9 @@
 ---
-title: 'Presentations'
+title: Presentations
 date: 2024-05-19
 type: landing
-
 design:
-  # Section spacing
-  spacing: '5rem'
-
-# Page sections
+  spacing: 5rem
 sections:
   - block: collection
     content:
@@ -23,4 +19,6 @@ sections:
       show_date: false
       show_read_time: false
       show_read_more: false
+event_start: 2024-05-19
 ---
+
